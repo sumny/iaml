@@ -11,7 +11,7 @@ remotes::install_github("sumny/iaml")
 ```
 
 Note that for *exact* reproduction, you need the R packages with the exact version as specified in the DESCRIPTION
-(i.e., == instead of >=).
+(i.e., == instead of >=) and also R version 4.0.5.
 Also note that some measures (ram and time related ones) can never be exactly reproduced because they depend on system
 hardware and system load.
 
