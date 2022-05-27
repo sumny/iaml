@@ -20,6 +20,8 @@ By default, in all `eval_*` functions, the original fixed seed is used and there
 
 To change this, simply provide a custom seed.
 
+Note that data is obtained via `mlr3oml` and is cached via `qs`.
+
 ## Example
 
 ```r
