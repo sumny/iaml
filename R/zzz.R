@@ -2,6 +2,7 @@
 #' @import checkmate
 #' @import lgr
 #' @import qs
+#' @import testthat
 #' @import iml
 #' @import mlr3
 #' @import mlr3misc
